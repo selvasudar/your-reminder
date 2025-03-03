@@ -12,7 +12,7 @@ export default defineConfig({
       manifest: {
         name: 'Your Reminder',
         short_name: 'Your Reminder',
-        description: 'A reminder app for pregnant women',
+        description: 'A reminder app for you',
         theme_color: '#ffffff',
         icons: [
           {
